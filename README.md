@@ -7,5 +7,7 @@ I couldn't make a folder in git, that is why i give you everything like this
 
 you would have to change the paths i already put in the comparison code, or create this folders.
 
+Error-- KeyError: 'images'
+
 thanks.
 
